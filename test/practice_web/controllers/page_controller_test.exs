@@ -22,4 +22,8 @@ defmodule PracticeWeb.PageControllerTest do
   end
 
   # TODO: Write a controller test for palindrome.
+  test "palindrome civic", %{conn: conn} do
+    conn = post conn, "/palindrome", %{"str" => "civic"}
+    assert html_response(conn, 200) =~ "true"
+  end
 end

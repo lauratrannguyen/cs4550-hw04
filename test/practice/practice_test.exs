@@ -2,6 +2,7 @@ defmodule Practice.PracticeTest do
   use ExUnit.Case
   import Practice
 
+
   test "double some numbers" do
     assert double(4) == 8
     assert double(3.5) == 7.0
@@ -28,4 +29,10 @@ defmodule Practice.PracticeTest do
   end
 
   # TODO: Add two unit tests for palindrome.
+  test "palindrome words" do
+    assert palindrome("civic") == true 
+    assert palindrome("racecar") == true
+    assert palindrome("laura") == false
+  end
+
 end

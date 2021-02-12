@@ -1,0 +1,38 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Laura Nguyen
+
+2. What hostname did you deploy your app to?
+lauratrannguyen.com
+
+3. What's the URL of your git for this assignment?
+https://github.com/lauratrannguyen/cs4550-hw04/tree/main
+
+My updated code is in the main branch!!!
+
+4. How much of the functionality did you complete?
+I completed all of it after many, many, many tears
+
+5. Did you successfully deploy? If not, what's broken?
+For some reason, the palindrome.html page doesn’t work
+
+
+6. How comfortable do you feel with Elixir now?
+On a scale of 1 to 10, a 6.5
+
+
+7. Which parts of this assignment did you have trouble with, if any?
+The calc function made me question my computer science degree, and the deployment was also a bit tricky with the new user, I don’t think I did it correctly. But overall I had fun on the assignment and I think that’s what’s most important.
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8

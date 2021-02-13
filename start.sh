@@ -24,5 +24,3 @@ _build/prod/rel/practice/bin/practice start
 # TODO: Add a systemd service file
 #       to start your app on system boot.
 
-mv hw04.service /etc/systemd/system
-
